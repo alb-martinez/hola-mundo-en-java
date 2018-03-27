@@ -16,6 +16,6 @@ Y para **ejecutarlo**:
 java HolaMundo
 ```
 
-## Aprendizaje de JAva
+## Aprendizaje de Java
 
 Te recomiendo el libro [Aprende Java con Ejercicios] (https://leanpub.com/aprendejava) :wink:
